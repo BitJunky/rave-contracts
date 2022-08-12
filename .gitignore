@@ -1,0 +1,9 @@
+/artifacts
+/cache
+/contracts/RaveSocial
+/data
+/deploy
+/node_modules
+/subgraph
+npx
+package-lock.json*
