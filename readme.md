@@ -1,5 +1,5 @@
 # Rave Contracts & tests
-Everything in `/contracts` is licensed under the Unlicense, unless otherwise stated.
+Everything in `/contracts` is licensed under the Unlicense, unless otherwise stated, or is being used for commercial purposes see [LISENCE](LISENCE.txt)
 
 ## Contracts
 
